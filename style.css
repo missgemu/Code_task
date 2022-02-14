@@ -1,0 +1,83 @@
+<doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Dorcas Yoila Gemu">
+    <meta name="description" content="Profile">
+    <title>About Dorcas Yoila Gemu</title>
+    <style>
+    body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif}
+    .topnav {
+        overflow: hidden;
+        background-color: blueviolet;
+    }
+    .topnav a { 
+        float: left;
+        color: firebrick;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+    .topnav a:hover {
+        background-color: yellowgreen; color: black;
+    }
+    .topnav a.active {
+        background-color: burlywood; color: white;
+    }
+    img {
+        width: 100px;
+        border-radius: 50px;
+    }
+
+    p {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: medium;
+        font-weight: lighter;
+        text-align: center;
+    }
+
+    p.username {
+        font-weight: bolder;
+        font-size: large; text-align: left;
+    }
+
+    h2 {
+        font-family: Arial, Helvetica, sans-serif; text-decoration-color: brown;
+    }
+</style>
+</head>
+
+<body>
+<div class="topnav">
+    <a class="active" href="#home">Home</a>
+    <a href="#Contact">Contact</a>
+    <a href="#About">About</a>
+
+</div>
+<div style="padding-left: 16px;">
+<a href="about.html">Home</a>
+ <br>
+ <br>
+ <br>
+ 
+ <a href="Images/dee.jpg" download> my photo</a>
+<a href="https://google.com">Google</a>
+<p>
+<h2 id="Activity-Outide Code Plateau">Outside Code Plateau</h2>
+<h2>My Experience so far in Code Plateau</h2>
+</p>
+<p class="username">Twitter:@EmpressQueenie <br>
+    phone:08064153212 <br>
+<a href="mailto:missgemu@gmail.com">Email Me
+</a>
+</p>
+</div>
+
+</body>
+
+</html>
